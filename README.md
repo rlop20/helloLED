@@ -15,6 +15,7 @@ Pluggin in the pico and setting up the code editor
 - Copy the code from "hello.py" from our repo and SAVE TO PICO.
 
 Setting up the breadboard
+
 https://i.imgur.com/2Z5pnqo.jpeg
 - The blue resister is hard to see but its plugged into i46 and i40
 
